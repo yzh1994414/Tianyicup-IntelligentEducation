@@ -52,3 +52,9 @@
 
 ### 建模思路：Argmin <stu> (Σ(score - exam\*stu)^2)
 
+## 单模结果
+Model_1 7.35
+Model_2 7.45
+Model_3 7.33
+融合结果 A榜7.29 B榜5.28
+
