@@ -49,7 +49,7 @@ ID巴斯光年，刚转行入坑的萌新一枚，第一次拿TOP很开心呢！
 ##### 定义：
 ##### score : m \* n (exam_number * student_numbers) 			试卷-学生成绩矩阵
 ##### exam : m \* s+ (exam_number * course_section)  			试卷-考点分布矩阵
-##### stu : 1+s \* n (course_section \* student_numbers)  学生-考点掌握矩阵
+##### stu : s \* n (course_section \* student_numbers)  学生-考点掌握矩阵
 
 ###### 其中， m为各科考试次数 n为学生数目 s为各科考点数
 
